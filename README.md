@@ -51,6 +51,7 @@ The two suggested workflows are:
 - If you plan to make significant changes or preview the Markdown files in VS Code, [clone](#cloning) the repo to [edit and preview](https://code.visualstudio.com/docs/languages/markdown) the files directly in VS Code.
 
 ![Markdown Preview Button](images/MDPreviewButton.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fvscode-docs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fvscode-docs?ref=badge_shield)
 
 ### Cloning
 
@@ -83,3 +84,7 @@ The history of this repo before we adopted LFS can be found at [microsoft/vscode
 ## Publishing
 
 Publishing merged pull requests is not automatic and is initiated manually after changes have been reviewed on an internal staging server. There is no specific time guarantee for when PR updates will be available on https://code.visualstudio.com but the intent is that they will usually be live within 24 hours.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fvscode-docs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fvscode-docs?ref=badge_large)
